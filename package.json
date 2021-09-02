@@ -15,7 +15,7 @@
   "dependencies": {
     "@spacex/barrage": "0.0.9",
     "@spacex/share": "0.0.12",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "babel-plugin-import": "^1.12.2",
     "better-scroll": "^1.15.2",
     "copy-to-clipboard": "^3.2.0",
